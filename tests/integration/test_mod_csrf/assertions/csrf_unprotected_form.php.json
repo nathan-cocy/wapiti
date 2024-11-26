@@ -2,6 +2,7 @@
     "vulnerabilities": {
         "Cross Site Request Forgery": [
             {
+                "id", "11-0001",
                 "method": "POST",
                 "path": "/unprotected_form.php",
                 "info": "Lack of anti CSRF token",
