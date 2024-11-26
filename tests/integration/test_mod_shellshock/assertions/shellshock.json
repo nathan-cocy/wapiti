@@ -2,6 +2,7 @@
     "vulnerabilities": {
         "Command execution": [
             {
+                "id": "15-0001",
                 "method": "GET",
                 "path": "/cgi-bin/vuln.cgi",
                 "info": "URL http://shellshock/cgi-bin/vuln.cgi seems vulnerable to Shellshock attack",
