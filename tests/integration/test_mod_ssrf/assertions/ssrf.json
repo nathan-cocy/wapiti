@@ -2,6 +2,7 @@
     "vulnerabilities": {
         "Server Side Request Forgery": [
             {
+                "id": "16-0001",
                 "method": "GET",
                 "path": "/ssrf.php",
                 "info": "SSRF vulnerability via injection in the parameter url.\nThe target performed an outgoing HTTP GET request at 2023-07-28T08:44:20+00:00 with IP 172.19.0.3.\nFull request can be seen at http://endpoint/ssrf_data/md7i9k/2/75726c/1690533860-172.19.0.3.txt",
