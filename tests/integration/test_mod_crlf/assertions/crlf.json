@@ -2,6 +2,7 @@
     "vulnerabilities": {
         "CRLF Injection": [
             {
+                "id": "06-0001",
                 "method": "GET",
                 "path": "/index.php",
                 "info": "CRLF Injection via injection in the parameter user-agent",
