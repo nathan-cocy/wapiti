@@ -2,6 +2,7 @@
     "vulnerabilities": {
         "SQL Injection": [
             {
+                "id": "01-0004",
                 "method": "GET",
                 "path": "/timesql_benchmark.php",
                 "info": "Blind SQL vulnerability via injection in the parameter query",
@@ -12,6 +13,7 @@
                 ]
             },
             {
+                "id": "01-0005",
                 "method": "GET",
                 "path": "/timesql_sleep.php",
                 "info": "Blind SQL vulnerability via injection in the parameter query",
