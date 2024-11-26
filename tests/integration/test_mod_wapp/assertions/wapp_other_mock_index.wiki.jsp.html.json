@@ -23,6 +23,7 @@
         ],
         "Vulnerable software": [
             {
+                "id": "17-0004",
                 "method": "GET",
                 "path": "/other_mock/index.wiki.jsp.html",
                 "info": "nginx CVE-2023-44487: The HTTP/2 protocol allows a denial of service (server resource consumption) because request cancellation can reset many streams quickly, as exploited in the wild in August through October 2023.",
