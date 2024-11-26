@@ -2,6 +2,7 @@
     "vulnerabilities": {
         "Stored Cross Site Scripting": [
             {
+                "id": "03-0001",
                 "method": "POST",
                 "path": "/form.php",
                 "info": "Stored Cross Site Scripting vulnerability found via injection in the parameter message",
@@ -16,6 +17,7 @@
                 }
             },
             {
+                "id": "03-0002",
                 "method": "POST",
                 "path": "/form.php",
                 "info": "Stored Cross Site Scripting vulnerability found via injection in the parameter message",
@@ -30,6 +32,7 @@
                 }
             },
             {
+                "id": "03-0003",
                 "method": "POST",
                 "path": "/form.php",
                 "info": "Stored Cross Site Scripting vulnerability found via injection in the parameter message",
@@ -44,6 +47,7 @@
                 }
             },
             {
+                "id": "03-0004",
                 "method": "POST",
                 "path": "/form.php",
                 "info": "Stored Cross Site Scripting vulnerability found via injection in the parameter message",
@@ -58,6 +62,7 @@
                 }
             },
             {
+                "id": "03-0005",
                 "method": "POST",
                 "path": "/form.php",
                 "info": "Stored Cross Site Scripting vulnerability found via injection in the parameter message",
@@ -72,6 +77,7 @@
                 }
             },
             {
+                "id": "03-0006",
                 "method": "POST",
                 "path": "/form.php",
                 "info": "Stored Cross Site Scripting vulnerability found via injection in the parameter message",
@@ -86,6 +92,7 @@
                 }
             },
             {
+                "id": "03-0007",
                 "method": "POST",
                 "path": "/form.php",
                 "info": "Stored Cross Site Scripting vulnerability found via injection in the parameter message",
@@ -100,6 +107,7 @@
                 }
             },
             {
+                "id": "03-0008",
                 "method": "POST",
                 "path": "/form.php",
                 "info": "Stored Cross Site Scripting vulnerability found via injection in the parameter message",
@@ -114,6 +122,7 @@
                 }
             },
             {
+                "id": "03-0009",
                 "method": "POST",
                 "path": "/form.php",
                 "info": "Stored Cross Site Scripting vulnerability found via injection in the parameter message",
@@ -128,6 +137,7 @@
                 }
             },
             {
+                "id": "03-0010",
                 "method": "POST",
                 "path": "/form.php",
                 "info": "Stored Cross Site Scripting vulnerability found via injection in the parameter message",
@@ -142,6 +152,7 @@
                 }
             },
             {
+                "id": "03-0011",
                 "method": "POST",
                 "path": "/form.php",
                 "info": "Stored Cross Site Scripting vulnerability found via injection in the parameter message",
@@ -156,6 +167,7 @@
                 }
             },
             {
+                "id": "03-0012",
                 "method": "POST",
                 "path": "/form.php",
                 "info": "Stored Cross Site Scripting vulnerability found via injection in the parameter message",
@@ -170,6 +182,7 @@
                 }
             },
             {
+                "id": "03-0013",
                 "method": "POST",
                 "path": "/form.php",
                 "info": "Stored Cross Site Scripting vulnerability found via injection in the parameter message",
@@ -184,6 +197,7 @@
                 }
             },
             {
+                "id": "03-0014",
                 "method": "POST",
                 "path": "/form.php",
                 "info": "Stored Cross Site Scripting vulnerability found via injection in the parameter message",
@@ -198,6 +212,7 @@
                 }
             },
             {
+                "id": "03-0015",
                 "method": "POST",
                 "path": "/form.php",
                 "info": "Stored Cross Site Scripting vulnerability found via injection in the parameter message",
@@ -212,6 +227,7 @@
                 }
             },
             {
+                "id": "03-0016",
                 "method": "POST",
                 "path": "/form.php",
                 "info": "Stored Cross Site Scripting vulnerability found via injection in the parameter message",
@@ -226,6 +242,7 @@
                 }
             },
             {
+                "id": "03-0017",
                 "method": "POST",
                 "path": "/form.php",
                 "info": "Stored Cross Site Scripting vulnerability found via injection in the parameter message",
@@ -240,6 +257,7 @@
                 }
             },
             {
+                "id": "03-0018",
                 "method": "POST",
                 "path": "/form.php",
                 "info": "Stored Cross Site Scripting vulnerability found via injection in the parameter message",
