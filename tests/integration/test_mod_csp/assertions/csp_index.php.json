@@ -2,6 +2,7 @@
     "vulnerabilities": {
         "Content Security Policy Configuration": [
             {
+                "id": "10-0001",
                 "method": "GET",
                 "path": "/index.php",
                 "info": "CSP is not set",
