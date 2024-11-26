@@ -2,6 +2,7 @@
     "vulnerabilities": {
         "SQL Injection": [
             {
+                "id": "01-0001",
                 "method": "GET",
                 "path": "/sql_easy.php",
                 "info": "SQL Injection (DBMS: SQLite) via injection in the parameter query",
@@ -13,6 +14,7 @@
                 ]
             },
             {
+                "id": "01-0002",
                 "method": "GET",
                 "path": "/sql_hard.php",
                 "info": "SQL Injection via injection in the parameter query",
@@ -24,6 +26,7 @@
                 ]
             },
             {
+                "id": "01-0003",
                 "method": "GET",
                 "path": "/sql_medium.php",
                 "info": "SQL Injection via injection in the parameter query",
