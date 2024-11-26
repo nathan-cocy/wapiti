@@ -2,6 +2,7 @@
     "vulnerabilities": {
         "Reflected Cross Site Scripting": [
             {
+                "id": "03-0019",
                 "method": "GET",
                 "path": "/advanced_xss.php",
                 "info": "Reflected Cross Site Scripting vulnerability found via injection in the parameter group",
@@ -12,6 +13,7 @@
                 ]
             },
             {
+                "id": "03-0020",
                 "method": "GET",
                 "path": "/intermediate_xss.php",
                 "info": "Reflected Cross Site Scripting vulnerability found via injection in the parameter group",
@@ -22,6 +24,7 @@
                 ]
             },
             {
+                "id": "03-0021",
                 "method": "GET",
                 "path": "/simple_xss.php",
                 "info": "Reflected Cross Site Scripting vulnerability found via injection in the parameter group",
