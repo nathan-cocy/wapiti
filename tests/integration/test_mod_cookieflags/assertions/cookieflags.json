@@ -2,6 +2,7 @@
     "vulnerabilities": {
         "HttpOnly Flag cookie": [
             {
+                "id": "08-0001",
                 "method": "GET",
                 "path": "/",
                 "info": "HttpOnly flag is not set in the cookie : not_httponly_cookie",
@@ -15,6 +16,7 @@
         ],
         "Secure Flag cookie": [
             {
+                "id": "09-0001",
                 "method": "GET",
                 "path": "/",
                 "info": "Secure flag is not set in the cookie : insecure_cookie",
