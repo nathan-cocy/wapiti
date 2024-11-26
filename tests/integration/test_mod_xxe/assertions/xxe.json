@@ -2,6 +2,7 @@
     "vulnerabilities": {
         "XML External Entity": [
             {
+                "id": "05-0001",
                 "method": "POST",
                 "path": "/xml_vuln_maker.php",
                 "info": "The target reached the DTD file on the endpoint but the exploitation didn't succeed.",
@@ -13,6 +14,7 @@
                 ]
             },
             {
+                "id": "05-0002",
                 "method": "POST",
                 "path": "/xml_vuln_maker.php",
                 "info": "Out-Of-Band XXE vulnerability by sending raw XML in request body\nThe target sent 922 bytes of data to the endpoint at 2023-07-19T12:38:35+00:00 with IP 192.168.112.22.\nReceived data can be seen at http://endpoint/xxe_data/pz8b22/5/72617720626f6479/1689770315-1-192.168.112.22.txt.",
@@ -24,6 +26,7 @@
                 ]
             },
             {
+                "id": "05-0003",
                 "method": "POST",
                 "path": "/xml_vuln_maker.php",
                 "info": "XXE vulnerability leading to file disclosure",
