@@ -2,6 +2,7 @@
     "vulnerabilities": {
         "LDAP Injection": [
             {
+                "id": "02-0001",
                 "method": "POST",
                 "path": "/login.php",
                 "info": "LDAP Injection via injection in the parameter user_id",
@@ -14,6 +15,7 @@
                 ]
             },
             {
+                "id": "02-0002",
                 "method": "POST",
                 "path": "/login2.php",
                 "info": "LDAP Injection via injection in the parameter user_id",
@@ -26,6 +28,7 @@
                 ]
             },
             {
+                "id": "02-0003",
                 "method": "POST",
                 "path": "/login2.php",
                 "info": "Potential LDAP injection via injection in the parameter password",
@@ -38,6 +41,7 @@
                 ]
             },
             {
+                "id": "02-0004",
                 "method": "POST",
                 "path": "/search.php",
                 "info": "LDAP Injection via injection in the parameter searchTerm",
@@ -50,6 +54,7 @@
                 ]
             },
             {
+                "id": "02-0005",
                 "method": "POST",
                 "path": "/search_exact.php",
                 "info": "LDAP Injection via injection in the parameter searchTerm",
