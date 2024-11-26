@@ -2,6 +2,7 @@
     "vulnerabilities": {
         "Path Traversal": [
             {
+                "id": "12-0001",
                 "method": "GET",
                 "path": "/code_execution.php",
                 "info": "PHP local inclusion leading to code execution via injection in the parameter file",
@@ -13,6 +14,7 @@
                 ]
             },
             {
+                "id": "12-0002",
                 "method": "GET",
                 "path": "/local_file_disclosure.php",
                 "info": "Linux local file disclosure vulnerability via injection in the parameter file",
@@ -24,6 +26,7 @@
                 ]
             },
             {
+                "id": "12-0003",
                 "method": "GET",
                 "path": "/local_file_disclosure.php",
                 "info": "Possible include() vulnerability via injection in the parameter file",
@@ -35,6 +38,7 @@
                 ]
             },
             {
+                "id": "12-0004",
                 "method": "GET",
                 "path": "/source_code_disclosure.php",
                 "info": "Possible source code disclosure via injection in the parameter file",
