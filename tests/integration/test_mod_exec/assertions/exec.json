@@ -2,6 +2,7 @@
     "vulnerabilities": {
         "Command execution": [
             {
+                "id": "04-0001",
                 "method": "GET",
                 "path": "/argument_inject.php/",
                 "info": "Command execution via injection in the parameter args",
@@ -13,6 +14,7 @@
                 ]
             },
             {
+                "id": "04-0002",
                 "method": "GET",
                 "path": "/direct_exec.php/",
                 "info": "Command execution via injection in the parameter cmd",
@@ -24,6 +26,7 @@
                 ]
             },
             {
+                "id": "04-0003",
                 "method": "GET",
                 "path": "/last_payload.php/",
                 "info": "Command execution via injection in the parameter abc",
