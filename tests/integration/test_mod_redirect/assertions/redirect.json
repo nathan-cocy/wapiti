@@ -2,6 +2,7 @@
     "vulnerabilities": {
         "Open Redirect": [
             {
+                "id": "14-0001",
                 "method": "GET",
                 "path": "/redirect.php",
                 "info": "Open Redirect via injection in the parameter link",
