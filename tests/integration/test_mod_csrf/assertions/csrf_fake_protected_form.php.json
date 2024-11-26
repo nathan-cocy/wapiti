@@ -2,6 +2,7 @@
     "vulnerabilities": {
         "Cross Site Request Forgery": [
             {
+                "id": "11-0002",
                 "method": "POST",
                 "path": "/fake_protected_form.php",
                 "info": "CSRF token 'csrf_token' might be easy to predict",
