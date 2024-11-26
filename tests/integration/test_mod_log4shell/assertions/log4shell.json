@@ -2,6 +2,7 @@
     "vulnerabilities": {
         "Log4Shell": [
             {
+                "id": "13-0001",
                 "method": "POST",
                 "path": "/login",
                 "info": "URL http://log4shell/login seems vulnerable to Log4Shell attack by using the body parameter uname",
