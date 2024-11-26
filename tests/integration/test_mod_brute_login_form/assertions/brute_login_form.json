@@ -2,6 +2,7 @@
     "vulnerabilities": {
         "Weak credentials": [
             {
+                "id": "07-0001",
                 "method": "POST",
                 "path": "/index.php",
                 "info": "Credentials found for URL http://brute_login_form/ : admin / admin",
