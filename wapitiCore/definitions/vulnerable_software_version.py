@@ -54,4 +54,4 @@ class VulnerableSoftwareFinding(FindingBase):
 
     @classmethod
     def wstg_code(cls) -> List[str]:
-        return []
+        return ["WSTG-INFO-08"]
